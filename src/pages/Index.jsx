@@ -1,6 +1,9 @@
 // Update this page (the content is just a fallback if you fail and example)
 // Use chakra-ui
-import { Container, Text, VStack } from "@chakra-ui/react";
+import { Box } from "@chakra-ui/react";
+import Navbar from '../components/Navbar';
+import TodoList from '../components/TodoList';
+import AddTodoForm from '../components/AddTodoForm';
 
 // Example of using react-icons
 // import { FaRocket } from "react-icons/fa";
